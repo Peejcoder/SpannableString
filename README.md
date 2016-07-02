@@ -1,5 +1,5 @@
 # SpannableString
-SpannableString
+使用SpannableString实现文字的一些特殊效果
 ====
 效果图为：<br>
 ![](https://github.com/18380460383/SpannableString/raw/master/3803687822.gif)  
@@ -59,6 +59,8 @@ handler.sendEmptyMessageDelayed(0,100);
         }
     };
 ```
-
+说明
+-----
+第一次使用github很多东西不是很会，上传了java和布局文件。参考了一些大神的介绍和做法。
 
 

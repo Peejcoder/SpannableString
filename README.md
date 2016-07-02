@@ -2,7 +2,7 @@
 使用SpannableString实现文字的一些特殊效果
 ====
 效果图为：<br>
-![](https://github.com/18380460383/SpannableString/raw/master/3803687822.gif)  
+![](https://github.com/18380460383/SpannableString/raw/master/123.gif)  
 关键代码
 -------
 1 购物的原价和现价效果
